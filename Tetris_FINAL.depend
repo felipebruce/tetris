@@ -1,0 +1,401 @@
+# depslib dependency file v1.0
+1499710256 source:c:\users\aluno\desktop\boralá\main.c
+	"menu.h"
+
+1499707576 c:\users\aluno\desktop\boralá\peca.h
+
+1499710256 source:c:\users\aluno\desktop\boralá\pecas.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499710256 source:c:\users\aluno\desktop\boralá\verificacoes.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499708808 c:\users\aluno\desktop\boralá\verificacoes.h
+
+1499708999 source:c:\users\aluno\desktop\boralá\desenhos.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499708338 c:\users\aluno\desktop\boralá\desenhos.h
+
+1499710333 source:c:\users\aluno\desktop\boralá\jogo.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499708808 c:\users\aluno\desktop\boralá\jogo.h
+
+1499708808 c:\users\aluno\desktop\boralá\menu.h
+
+1499708999 source:c:\users\aluno\desktop\boralá\menu.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499779199 source:c:\users\aluno\desktop\opa\jogo.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499696062 c:\users\aluno\desktop\opa\peca.h
+
+1499696064 c:\users\aluno\desktop\opa\verificacoes.h
+
+1499696060 c:\users\aluno\desktop\opa\desenhos.h
+
+1499696060 c:\users\aluno\desktop\opa\jogo.h
+
+1499696060 c:\users\aluno\desktop\opa\menu.h
+
+1499777963 source:c:\users\aluno\desktop\opa\main.c
+	"menu.h"
+
+1499779347 source:c:\users\aluno\desktop\opa\menu.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499696064 source:c:\users\aluno\desktop\opa\pecas.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499777786 source:c:\users\aluno\desktop\opa\verificacoes.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499696060 source:c:\users\aluno\desktop\opa\desenhos.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499779594 source:c:\users\aluno\desktop\opa\ranking.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+	"ranking.h"
+
+1499779081 c:\users\aluno\desktop\opa\ranking.h
+
+1499822066 source:c:\users\amanda\desktop\opa\desenhos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"verificacoes.h"
+	"desenhos.h"
+
+1499818063 c:\users\amanda\desktop\opa\peca.h
+
+1499814111 c:\users\amanda\desktop\opa\verificacoes.h
+
+1499818005 c:\users\amanda\desktop\opa\desenhos.h
+
+1499813672 c:\users\amanda\desktop\opa\jogo.h
+
+1499813863 c:\users\amanda\desktop\opa\menu.h
+
+1499821792 source:c:\users\amanda\desktop\opa\jogo.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+	"ranking.h"
+	"gameover.h"
+
+1499818174 source:c:\users\amanda\desktop\opa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1499821468 source:c:\users\amanda\desktop\opa\menu.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+	"ranking.h"
+
+1499821694 source:c:\users\amanda\desktop\opa\pecas.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+
+1499821388 source:c:\users\amanda\desktop\opa\ranking.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"verificacoes.h"
+	"ranking.h"
+
+1499821170 c:\users\amanda\desktop\opa\ranking.h
+
+1499815761 source:c:\users\amanda\desktop\opa\verificacoes.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499821516 source:c:\users\amanda\desktop\opa\gameover.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"ranking.h"
+	"gameover.h"
+
+1499813622 c:\users\amanda\desktop\opa\gameover.h
+
+1499823460 source:c:\users\amanda\desktop\projeto tetris\desenhos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"verificacoes.h"
+	"desenhos.h"
+
+1499814111 c:\users\amanda\desktop\projeto tetris\verificacoes.h
+
+1499818005 c:\users\amanda\desktop\projeto tetris\desenhos.h
+
+1499821516 source:c:\users\amanda\desktop\projeto tetris\gameover.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"ranking.h"
+	"gameover.h"
+
+1499813863 c:\users\amanda\desktop\projeto tetris\menu.h
+
+1499821170 c:\users\amanda\desktop\projeto tetris\ranking.h
+
+1499813622 c:\users\amanda\desktop\projeto tetris\gameover.h
+
+1499823641 source:c:\users\amanda\desktop\projeto tetris\jogo.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+	"ranking.h"
+	"gameover.h"
+
+1499818063 c:\users\amanda\desktop\projeto tetris\peca.h
+
+1499813672 c:\users\amanda\desktop\projeto tetris\jogo.h
+
+1499818174 source:c:\users\amanda\desktop\projeto tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1499821468 source:c:\users\amanda\desktop\projeto tetris\menu.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+	"ranking.h"
+
+1499823460 source:c:\users\amanda\desktop\projeto tetris\pecas.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+
+1499823774 source:c:\users\amanda\desktop\projeto tetris\ranking.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"verificacoes.h"
+	"ranking.h"
+
+1499823460 source:c:\users\amanda\desktop\projeto tetris\verificacoes.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
+1499836022 source:c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\desenhos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"verificacoes.h"
+	"desenhos.h"
+
+1499842267 c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\verificacoes.h
+
+1499835916 c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\desenhos.h
+
+1499838809 source:c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\gameover.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"ranking.h"
+	"gameover.h"
+
+1499827086 c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\menu.h
+
+1499827394 c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\ranking.h
+
+1499827086 c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\gameover.h
+
+1499842900 source:c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\jogo.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+	"ranking.h"
+	"gameover.h"
+
+1499842411 c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\peca.h
+
+1499836923 c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\jogo.h
+
+1499833234 source:c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1499836532 source:c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\menu.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+	"ranking.h"
+
+1499842411 source:c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\pecas.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+
+1499836532 source:c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\ranking.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"verificacoes.h"
+	"ranking.h"
+
+1499842258 source:c:\users\carla pereira\downloads\projeto tetris-20170712t014850z-001\projeto tetris\verificacoes.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"peca.h"
+	"verificacoes.h"
+	"desenhos.h"
+	"jogo.h"
+	"menu.h"
+
